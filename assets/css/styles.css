@@ -408,9 +408,10 @@ img{
 }
 
 /*========== PROFILE ==========*/
-.profile__description{
-  text-align: center;
-}
+/* .profile__description{
+  text-align: center
+  text-align: justify;
+} */
 
 /*========== EDUCATION AND EXPERIENCE ==========*/
 .education__content,
@@ -460,7 +461,7 @@ img{
 }
 
 .education__year{
-  font-size: var(--smaller-font-size);
+  font-size: var(--small-font-size);
 }
 /*========== SKILLS AND LANGUAGES ==========*/
 .skills__content,
